@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Body Type Calculator](https://www.calculator.io/body-type-calculator/ "Body Type Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_body_type_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Body Type Calculator to the sidebar through the `Appearance -> Widgets -> Body Type Calculator` menu in WordPress.
+* Add the shortcode `[ci_body_type_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_body_type_calculator(); ?>` to your template where you would like the Body Type Calculator to appear.
 
 == Screenshots ==
