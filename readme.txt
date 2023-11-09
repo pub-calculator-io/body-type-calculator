@@ -13,6 +13,8 @@ Discover your body shape with our easy and accurate body type calculator. Learn 
 
 Discover your body shape with our easy and accurate body type calculator. Learn how to flatter your unique proportions with our helpful guide.
 
+[Body Type Calculator Homepage](https://www.calculator.io/body-type-calculator/ "Body Type Calculator Homepage")
+
 __Shortcode__
 
 Use the Body Type Calculator shortcode:
