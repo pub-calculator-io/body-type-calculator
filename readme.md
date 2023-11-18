@@ -1,4 +1,4 @@
-# Body Type Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Body Type Calculator Widget for WordPress
 
 Discover your body shape with our easy and accurate body type calculator. Learn how to flatter your unique proportions with our helpful guide.
 
