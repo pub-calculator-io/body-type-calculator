@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Body Type Calculator by www.calculator.io
+Plugin Name: CI Body type calculator
 Plugin URI: https://www.calculator.io/body-type-calculator/
 Description: Discover your body shape with our easy and accurate body type calculator. Learn how to flatter your unique proportions with our helpful guide.
 Version: 1.0.0
