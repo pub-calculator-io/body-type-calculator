@@ -1,4 +1,4 @@
-=== Body Type Calculator ===
+=== Body Type Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: body type calculator, determine body shape, body shape analysis, find my body type, calculate body silhouette, body shape calculator
 Requires at least: 5.0
