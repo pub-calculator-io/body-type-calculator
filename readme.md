@@ -3,7 +3,6 @@
 Discover your body shape with our easy and accurate body type calculator. Learn how to flatter your unique proportions with our helpful guide.
 
 ![Body Type Calculator Input Form](/assets/images/screenshot-1.png "Body Type Calculator Input Form")
-![Body Type Calculator Calculation Results](/assets/images/screenshot-2.png "Body Type Calculator Calculation Results")
 
 ## Installation
 
