@@ -1,6 +1,6 @@
 # Body Type Calculator Widget for WordPress
 
-Discover your body shape with our easy and accurate body type calculator. Learn how to flatter your unique proportions with our helpful guide.
+Use our free Body Type Calculator to easily determine your body shape. Enter your measurements to find your unique silhouette and get expert styling tips.
 
 ![Body Type Calculator Input Form](/assets/images/screenshot-1.png "Body Type Calculator Input Form")
 
@@ -11,8 +11,8 @@ Discover your body shape with our easy and accurate body type calculator. Learn 
 3. Activate the [Body Type Calculator](https://www.calculator.io/body-type-calculator/ "Body Type Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_body_type_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_body_type_calculator(); ?>` to your template where you would like the Body Type Calculator to appear.
+* Add the shortcode `[calcio_body_type_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_body_type_calculator(); ?>` to your template where you would like the Body Type Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
